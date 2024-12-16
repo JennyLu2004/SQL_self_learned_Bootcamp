@@ -8,5 +8,7 @@ The .sql file attached to this project has everything I learned about SQL. Most 
 - Using GROUP BY and JOIN functions
 - Working with strings using TRIM, CONCAT, LEFT, RIGHT, and SUBSTRING
 - Creating temporary tables and triggers
+  
 ... And a bunch of other cool things
+  
 This project really helped me go from zero to advanced SQL. Plus, since it was something I did over the summer on my own, it taught me a lot about staying disciplined and managing my time.
